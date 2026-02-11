@@ -1,0 +1,214 @@
+* {
+    margin: 0%;
+    padding: 0%;
+    background-color: white;
+
+}
+
+body {
+    background-color: beige gray;
+}
+
+ul {
+    display: flex;
+    list-style: none;
+    gap: 50px;
+    margin-left: 500px;
+    font-family: Arial, Helvetica, sans-serif;
+    color: black;
+
+}
+
+.header {
+    background-color: white;
+}
+
+.annonce h1 {
+    font-size: 40px;
+    margin-top: 90px;
+    position: absolute;
+    padding: 89px;
+    margin-right: 20px;
+
+
+
+}
+
+li a :hover {
+    color: brown;
+}
+
+.image1 {
+    width: 400px;
+    margin-left: 790px;
+    margin-bottom: 200px;
+    background-color: white;
+    position: relative;
+    padding-top: 90px;
+    height: 500px;
+
+}
+
+em {
+    font-size: 24px;
+    padding-top: 0px;
+}
+
+.logo {
+    width: 100px;
+}
+
+.bouton {
+    padding-left: 80%;
+    top: 200px;
+    margin: 0%;
+    padding: 0%;
+}
+
+a {
+    text-decoration: none;
+}
+
+.btn {
+    position: absolute;
+    top: 90%;
+    left: 20%;
+
+}
+
+.btn-explorer {
+    background-color: rgb(221, 20, 20);
+    border-radius: 10px;
+    color: #ffff;
+    padding: 20px;
+    border: none;
+}
+
+.btn-free {
+    border: 2px solid red;
+    border-radius: 10px;
+    color: rgb(221, 20, 20);
+    padding: 20px;
+
+}
+section {
+}
+
+section p {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 40px;
+    text-align: center;
+    
+}
+fieldset{
+    padding: 100px;
+    width: 20px;
+}
+.conteneur{
+    display: flex;
+    gap: 100px;
+    padding-top: 100px;
+}
+.pp3{
+    text-align: center;
+    padding-top: 100px;
+    padding-top: 25px;
+}
+.image3{
+    padding: 20px;
+}
+ol{
+    margin-left: 700px;
+    top: 200px;
+    padding-bottom: -300px;
+    margin-top: -33%;
+}
+ol li {
+    font-size: 20px;
+    font-family: 20px;
+
+    height: 60px;
+
+}
+.TEAM{
+    padding-top: 300px;
+}
+.pteam{
+    text-align: center;
+    padding: 10px;
+}
+
+.ri{
+    width: 0px;
+    border: #ffff;
+}
+.ro{
+    width: 0px;
+    border: #ffff;
+}
+.ra{
+      width: 0px;
+    border: #ffff;
+}
+.re{
+      width: 0px;
+    border: #ffff;
+}
+.conteneurx{
+    display: flex;
+
+
+}
+
+ .im1{
+    width: 300px;
+ }
+ .im2{
+ width: 300px;
+ background-color:grey
+ }
+ .im3{
+    width: 300px;
+    background-color:grey
+ }
+ .im4 {
+    width: 300px;
+    background-color:grey
+ }
+ div input{
+ width: 600px;
+ padding: 10px;
+ margin-left: 500px;
+ background-color: white;
+ margin-top: 20px;
+
+ }
+ .FIN{
+    padding: 100px;
+    /* background-color:grey */
+ }
+ .deux{
+  /* background-color: gray; */
+ }
+ .finfin{
+    display: flex;
+padding-top: 150px;
+ 
+ }
+ .finfin fieldset {
+    border:  solid white;
+    gap: 200px;
+    width: 3000px;
+    padding-top: 200px;
+
+
+ }
+ .fin{
+    gap: 20px;
+    justify-content: center;
+
+ }
+ .theend {
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+ }
